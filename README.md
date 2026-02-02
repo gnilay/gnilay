@@ -1,5 +1,5 @@
 # Hi, I'm Nilay 👋
-I’m a Computer Science student at Iowa State University. I am currently working on creating systems and pipelines to handle and work with large datasets for research as a Research Assistant under Professor David E. Cantor.
+I’m a Computer Science student at Iowa State University. I am currently working on creating systems and pipelines to handle large datasets for research as a Research Assistant under Professor David E. Cantor.
 
 ## 🔭 Current focus
 - Data Engineering

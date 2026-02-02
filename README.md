@@ -9,7 +9,7 @@ I’m a Computer Science student at Iowa State University. I am currently workin
 ## 🧰 Tech
 **Languages:** Java, Python, C/C++, JavaScript  
 **Tools:** Git, Linux, VS Code, BigQuery
-**Interests:** Backend, APIs, distributed systems, (add yours)
+**Interests:** Backend, APIs, distributed systems
 
 ## 🚀 Featured projects
 - **Interpreter in C from scratch**

@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nilay 👋
+I’m a Computer Science student at Iowa State University. I am currently working on creating systems and pipelines to handle and work with large datasets for research as a Research Assistant under Professor David E. Cantor.
 
-<!--
-**gnilay/gnilay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current focus
+- Data Engineering
+- Low-level programming
+- Writing cleaner code + tests
 
-Here are some ideas to get you started:
+## 🧰 Tech
+**Languages:** Java, Python, C/C++, JavaScript  
+**Tools:** Git, Linux, VS Code, BigQuery
+**Interests:** Backend, APIs, distributed systems, (add yours)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- **Interpreter in C from scratch**
+- Currently working on **Full Stack Android App**
+
+## 📫 Contact
+- LinkedIn: <[link](https://www.linkedin.com/in/gautamnilay/)>
+- Email: <nilay@iastate.edu>

@@ -1,20 +1,23 @@
 # Hi, I'm Nilay 👋
-I’m a Computer Science student at Iowa State University. I am currently working on creating systems and pipelines to handle large datasets for research as a Research Assistant under Professor David E. Cantor.
+I’m a Computer Science student at Iowa State University. I am currently working on creating simulations for Supply Chain research as an Undergraduate Research Assistant under Professor David E. Cantor.
 
 ## 🔭 Current focus
-- Data Engineering
-- Low-level programming
-- Writing cleaner code + tests
+- Backend Engineering
+- LLM's and RAG pipelines
+- Building my own AI models
+
+## 🚀 Featured projects
+- Labflow: Save hours in labs
 
 ## 🧰 Tech
-**Languages:** Java, Python, C/C++, JavaScript  
+**Languages:** Java, Python, Go, C/C++, JavaScript
 **Tools:** Git, Linux, VS Code, BigQuery
 **Interests:** Backend, APIs, distributed systems
 
-## 🚀 Featured projects
-- **Interpreter in C from scratch**
-- Currently working on **Full Stack Android App**
+## 🏆 Awards
+- 2nd Place, COMS 3090 Overall
+- 99.4 Percentile JEE Math (98.6 OVR)
 
 ## 📫 Contact
-- LinkedIn: <[link](https://www.linkedin.com/in/gautamnilay/)>
+- LinkedIn: <[link](https://www.linkedin.com/in/1nilay/)>
 - Email: <nilay@iastate.edu>

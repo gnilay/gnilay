@@ -19,5 +19,5 @@ I’m a Computer Science student at Iowa State University. I am currently workin
 - 99.4 Percentile JEE Math (98.6 OVR)
 
 ## 📫 Contact
-- LinkedIn: <[link](https://www.linkedin.com/in/1nilay/)>
+- LinkedIn: <https://www.linkedin.com/in/1nilay/>
 - Email: <nilay@iastate.edu>
